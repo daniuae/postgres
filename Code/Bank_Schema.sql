@@ -12,7 +12,7 @@ CREATE TABLE bankcustomers (
 
 
 INSERT INTO bankcustomers (full_name, email, phone, address, date_of_birth) VALUES
-('Dhandapani', 'daniyk2020@gmail.com', '805003211', 'Coimbatore, TN', '1990-05-15'),
+('Dhandapani', 'daniyk202011111@gmail.com', '805003211', 'Coimbatore, TN', '1990-05-15'),
 ('Priya Singh', 'priya.s@gmail.com', '9123456780', 'Bangalore, KA', '1988-11-22'),
 ('John David', 'john.d@hotmail.com', '9988776655', 'Hyderabad, TS', '1985-02-10');
 
